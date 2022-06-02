@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "om96aoppMsvcsObcXTP7ss8fQ7uix8+F/yz4yrx3KDmJWCJ+JwSW5zlBqTqA5CuWaST2c8UYyiqvoKR/sNXr9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igora\\OneDrive\\Área de Trabalho\\CC\\CG\\AlgoritmosCG\\TrabalhoRasterizacao\\TrabalhoRasterizacao\\TrabalhoRasterizacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igora\\.nuget\\packages\\intersoft.crosslight\\6.0.5000.975\\intersoft.crosslight.6.0.5000.975.nupkg.sha512",
+    "C:\\Users\\igora\\.nuget\\packages\\intersoft.crosslight.ui.datavisualization\\6.0.5000.975\\intersoft.crosslight.ui.datavisualization.6.0.5000.975.nupkg.sha512",
+    "C:\\Users\\igora\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\igora\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\igora\\.nuget\\packages\\scottplot\\4.1.45\\scottplot.4.1.45.nupkg.sha512",
+    "C:\\Users\\igora\\.nuget\\packages\\scottplot.winforms\\4.1.45\\scottplot.winforms.4.1.45.nupkg.sha512",
+    "C:\\Users\\igora\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Intersoft.Crosslight 6.0.5000.975' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net6.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Intersoft.Crosslight",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Intersoft.Crosslight.UI.DataVisualization 6.0.5000.975' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net6.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Intersoft.Crosslight.UI.DataVisualization",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
